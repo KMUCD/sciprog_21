@@ -1,0 +1,2 @@
+Iterative GCD(3, 4) = 1
+Recursive GCD(3, 4) = 1
